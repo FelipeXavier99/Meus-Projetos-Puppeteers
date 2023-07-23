@@ -11,7 +11,8 @@ e outro calculando automaticamente o dólar pro real do navegador Chrome para o 
 npm install puppeteer  
 
 
-#Imagens pra pegar os Títulos YouTube
+# Imagens pra pegar os Títulos YouTube
 
 ![you1](https://github.com/FelipeXavier99/Meus-Projetos-Puppeteers/assets/127893679/7ef15429-59ec-467d-95be-ee23448ff4c3)
+Resuldado Vscode:
 ![you2](https://github.com/FelipeXavier99/Meus-Projetos-Puppeteers/assets/127893679/b8e367a0-b1f7-4c63-8a4f-2643ddc0da28)
